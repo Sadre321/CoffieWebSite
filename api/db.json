@@ -1,0 +1,48 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "admin",
+      "email": "loremipsum@mail.com",
+      "password": "aA12345"
+    }
+  ],
+  "categories": [
+    {
+      "id": "e1005eb6-13fc-492c-9c57-ff48d4854055",
+      "name": "Cool Lime"
+    },
+    {
+      "id": "1d9289f4-c370-4821-b77f-97df8e061ddb",
+      "name": "Sıcak İçecekler"
+    },
+    {
+      "id": "1ac7dae9-31e3-4ed6-a444-938699f5b0f4",
+      "name": "Kahve"
+    },
+    {
+      "id": "9db20519-4455-4028-bea8-dc5a5c90cc26",
+      "name": "Soğuk İçecekler"
+    }
+  ],
+  "coffies": [
+    {
+      "id": "6d8bdad3-e729-4e25-b376-e4b192f7456d",
+      "name": "Latte",
+      "img": "sadasd.png",
+      "category_id": "1ac7dae9-31e3-4ed6-a444-938699f5b0f4"
+    },
+    {
+      "id": "2a0d9b32-4bf2-4814-8a7a-5d1dc0bef891",
+      "name": "kşkşdlkşfakdşfksdşf",
+      "img": "ring.png",
+      "category_id": "1d9289f4-c370-4821-b77f-97df8e061ddb"
+    },
+    {
+      "id": "c04c7d93-21c2-443c-b899-0057da26f642",
+      "name": "asdkasdkjaslkdjasld",
+      "img": "soda.png",
+      "category_id": "1ac7dae9-31e3-4ed6-a444-938699f5b0f4"
+    }
+  ]
+}
